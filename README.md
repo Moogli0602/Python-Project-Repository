@@ -27,7 +27,7 @@ We cover a wide range of Python topics, including:
 ## How to Use
 
 1. **Clone the repository** to your computer using the following command:
-2. git clone https://github.com/Moogli0602/Tableau-Project-Repository
+2. git clone [https://github.com/Moogli0602/Python-Project-Repository]
 3. That's it! Now you're ready to explore and learn Python at your own pace.
 
 Happy coding! 🐍🎉
