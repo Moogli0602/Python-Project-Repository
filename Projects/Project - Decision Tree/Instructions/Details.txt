@@ -1,0 +1,3 @@
+Based on Gender, Age ,Salary  - provide a model for purchase prediction.
+
+ Steps should be followed properly, Proper EDA should be done, Inference, Submit the Html of the notebook.

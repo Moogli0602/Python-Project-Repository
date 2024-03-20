@@ -1,0 +1,7 @@
+Use Random Forest to prepare a model on fraud data 
+treating those who have taxable_income <= 30000 as "Risky" and others are "Good"
+
+Once the data is prepared - 
+1. Do propre EDA and Analysis
+2. Prepare proper Model and Evaluate that properly.
+3. Submit the HTML of the notebook.

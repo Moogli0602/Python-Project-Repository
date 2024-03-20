@@ -1,0 +1,13 @@
+Output variable -> y
+y -> Whether the client has subscribed a term deposit or not 
+Binomial ("yes" or "no")
+
+Based on the Output Variable prepare a predictive Model.
+
+1. Steps should be followed properly.
+2. Proper EDA should be done
+3. Model Training and Validation
+4. Inference.
+5. Submit the Html of the notebook.
+
+####################################################################

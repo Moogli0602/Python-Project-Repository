@@ -1,0 +1,8 @@
+Prediction  - Predict the Price of Bangalore House
+
+Follow the Machine Learning Life Cycle Steps.
+Write proper Insights/Inference on each analysis
+Do proper EDA on the columns and the data with graphs using seaborn and interpret the graphs.
+Save the graphs in one folder and zip the folder.
+Zip the datasets folders seperately for Iphone Purchase.
+Write proper print statements while writing the code. Proper rounding of the numbers is also required.
